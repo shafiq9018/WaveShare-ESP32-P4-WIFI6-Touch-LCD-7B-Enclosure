@@ -62,13 +62,10 @@ Designed for:
 
 ---
 
-## Purchase / Download
+## Support Development
 
-Full downloadable package available at:
-
-buymeacoffee.com/shafiq9018
-
----
+- [Buy Me a Coffee](https://buymeacoffee.com/shafiq9018)
+- [PayPal](https://paypal.me/shafiq9018)
 
 ## Author
 
