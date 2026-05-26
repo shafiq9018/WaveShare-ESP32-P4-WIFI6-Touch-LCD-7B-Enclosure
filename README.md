@@ -19,13 +19,15 @@ WaveShare ESP32-P4-WIFI6-Touch-LCD-7B 7" touchscreen development board.
 
 ## Preview
 
-![Front View](images/front-view.png)
+![STL View](images/stl-view.jpg)
 
-![Rear View](images/rear-view.png)
+![Front View](images/front-view.jpg)
 
-![Side View](images/side-view.png)
+![Rear View](images/rear-view.jpg)
 
-![Assembly View](images/assembly-view.png)
+![Side View](images/side-view.jpg)
+
+![Assembly View](images/assembly-view.jpg)
 
 ---
 
