@@ -19,7 +19,7 @@ WaveShare ESP32-P4-WIFI6-Touch-LCD-7B 7" touchscreen development board.
 
 ## To Download go here to Support Development
 
-- [Buy Me a Coffee](https://buymeacoffee.com/shafiq9018)
+- [Buy Me a Coffee](https://buymeacoffee.com/shafiq9018) <---- To Download Go Here
 - [PayPal](https://paypal.me/shafiq9018)
 
 ## Preview
