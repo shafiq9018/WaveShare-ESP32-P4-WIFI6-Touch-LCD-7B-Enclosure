@@ -1,90 +1,73 @@
-# ESP32-P4 Plasma CNC HMI
+# ESP32-P4-WIFI6-Touch-LCD-7B Enclosure
 
-Industrial touchscreen CNC plasma interface for the  
-ESP32-P4-WIFI6-Touch-LCD-7B development board.
-
-## Overview
-
-This project focuses on developing a modern industrial Human Machine Interface (HMI) for CNC plasma systems using the ESP32-P4 platform.
-
-The interface is designed for:
-- Plasma CNC control
-- Touchscreen operation
-- Industrial machine interfaces
-- GRBLHAL integration
-- Embedded control systems
-
-Built around:
-- ESP32-P4
-- ESP32-C6
-- 7" touchscreen display
-- Wi-Fi 6 / Bluetooth 5
+Custom OpenSCAD enclosure designed for the  
+WaveShare ESP32-P4-WIFI6-Touch-LCD-7B 7" touchscreen development board.
 
 ---
 
 ## Features
 
-- 7" touchscreen industrial UI
-- Plasma cutting controls
-- Modern embedded interface design
-- GRBLHAL compatibility
-- ESP32-P4 support
-- Touch-based navigation
-- Real-time machine controls
-- Embedded graphics rendering
+- Parametric OpenSCAD design
+- Designed specifically for the 7" glass touchscreen
+- Clean industrial enclosure style
+- Easy dimensional customization
+- Ventilation support
+- Printable on standard FDM 3D printers
+- Modular design approach
 
 ---
 
-## Hardware
+## Preview
 
-Target hardware:
+![Front View](images/front-view.png)
 
-- WaveShare ESP32-P4-WIFI6-Touch-LCD-7B
-- ESP32-P4 MCU
-- ESP32-C6 wireless processor
-- 7" capacitive touchscreen
-- Wi-Fi 6
-- Bluetooth 5 / BLE 5
+![Rear View](images/rear-view.png)
 
----
+![Side View](images/side-view.png)
 
-## Project Status
-
-Active development.
-
-Current work includes:
-- Industrial UI framework
-- Plasma CNC control pages
-- Embedded touchscreen controls
-- Machine status displays
-- Configuration systems
-- Future GRBLHAL communication support
+![Assembly View](images/assembly-view.png)
 
 ---
 
-## Screenshots
+## Hardware Compatibility
 
-Coming soon.
+Designed for:
 
----
-
-## Support Development
-
-If you would like to support future development:
-
-paypal.me/shafiq9018
+- ESP32-P4-WIFI6-Touch-LCD-7B
+- ESP32-P4
+- ESP32-C6
+- 7" capacitive touchscreen display
 
 ---
 
-## License
+## Adjustable Parameters
 
-All rights reserved.
+- Wall thickness
+- Mount spacing
+- Vent openings
+- Corner radius
+- Screen clearance
+- Enclosure depth
 
-Source code, firmware, assets, and project files may not be redistributed without permission.
+---
+
+## Included Files
+
+- OpenSCAD source file
+- Preview renders
+- Printable enclosure design
+- Example configuration
+
+---
+
+## Purchase / Download
+
+Full downloadable package available at:
+
+buymeacoffee.com/shafiq9018
 
 ---
 
 ## Author
 
-Shafiq Rahman  
-Philadelphia, PA
+Shafiq Rahman
