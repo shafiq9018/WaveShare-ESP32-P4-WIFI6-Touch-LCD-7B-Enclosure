@@ -7,27 +7,27 @@ WaveShare ESP32-P4-WIFI6-Touch-LCD-7B 7" touchscreen development board.
 
 ## Features
 
-- Parametric OpenSCAD design
-- Designed specifically for the 7" glass touchscreen
-- Clean industrial enclosure style
-- Easy dimensional customization
+- Parametric OpenSCAD enclosure
+- Designed for the 7" glass touchscreen
+- Industrial enclosure styling
+- Customizable dimensions
 - Ventilation support
-- Printable on standard FDM 3D printers
-- Modular design approach
+- Easy to modify
+- FDM 3D printer friendly
 
 ---
 
 ## Preview
 
-![STL View](images/stl-view.png)
+<img src="images/stl-view.png" width="200">
 
-![Front View](images/front-view.jpeg)
+<img src="images/front-view.jpeg" width="200">
 
-![Rear View](images/rear-view.jpeg)
+<img src="images/rear-view.jpeg" width="200">
 
-![Side View](images/side-view.jpeg)
+<img src="images/side-view.jpeg" width="200">
 
-![Assembly View](images/assembly-view.jpeg)
+<img src="images/assembly-view.jpeg" width="200">
 
 ---
 
@@ -45,20 +45,25 @@ Designed for:
 ## Adjustable Parameters
 
 - Wall thickness
-- Mount spacing
-- Vent openings
-- Corner radius
-- Screen clearance
 - Enclosure depth
+- Screen clearance
+- Vent openings
+- Mount spacing
+- Corner radius
 
 ---
 
 ## Included Files
 
 - OpenSCAD source file
-- Preview renders
-- Printable enclosure design
-- Example configuration
+- STL preview renders
+- Example enclosure configuration
+
+---
+
+## Purchase / Download
+
+[Buy Full Download](https://buymeacoffee.com/shafiq9018)
 
 ---
 
@@ -67,6 +72,9 @@ Designed for:
 - [Buy Me a Coffee](https://buymeacoffee.com/shafiq9018)
 - [PayPal](https://paypal.me/shafiq9018)
 
+---
+
 ## Author
 
 Shafiq Rahman
+Philadelphia, PA
